@@ -11,7 +11,7 @@ I'm a **Business Intelligence Analyst** with a background in **Information Syste
 - Marketing Analytics
 
 ### 📊 **Recent Projects**:
-- **[Zomato Sales Performance Analysis]([Zomato](https://github.com/jacobirsan/README.md/tree/75ee1284f371dd8c696c686744fb09743130f799/Zomato))**: Analyzed restaurant sales performance on Zomato using key KPIs and regional trends. Developed strategies to boost sales in underperforming areas and tackle challenges posed by the COVID-19 pandemic.
+- **[Zomato Sales Performance Analysis](https://github.com/jacobirsan/README.md/tree/75ee1284f371dd8c696c686744fb09743130f799/Zomato)**: Analyzed restaurant sales performance on Zomato using key KPIs and regional trends. Developed strategies to boost sales in underperforming areas and tackle challenges posed by the COVID-19 pandemic.
 - **[Shopify Customer Reviews Analysis]()**: Led the analysis of customer reviews, uncovering a direct correlation between developer engagement and customer satisfaction, which led to a 15% increase in app retention.
 
 ### 💼 **Professional Experience**:
