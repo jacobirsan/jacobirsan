@@ -12,7 +12,7 @@ I'm a **Business Intelligence Analyst** with a background in **Information Syste
 
 ### 📊 **Recent Projects**:
 - **[Zomato Sales Performance Analysis](https://github.com/jacobirsan/README.md/tree/75ee1284f371dd8c696c686744fb09743130f799/Zomato)**: Analyzed restaurant sales performance on Zomato using key KPIs and regional trends. Developed strategies to boost sales in underperforming areas and tackle challenges posed by the COVID-19 pandemic.
-- **[Shopify Customer Reviews Analysis]()**: Led the analysis of customer reviews, uncovering a direct correlation between developer engagement and customer satisfaction, which led to a 15% increase in app retention.
+- **[Shopify Customer Reviews Analysis](https://github.com/jacobirsan/README.md/tree/75ee1284f371dd8c696c686744fb09743130f799/Shopify)**: Led the analysis of customer reviews, uncovering a direct correlation between developer engagement and customer satisfaction, which led to a 15% increase in app retention.
 
 ### 💼 **Professional Experience**:
 - **Assistant Marketing Manager @ Sinar Kosambi Mandiri**: Improved revenue forecasting by 15%, increased brand awareness by 20%, and enhanced customer retention by 30% through data-driven marketing and CRM strategies.
@@ -26,3 +26,5 @@ I'm always looking to collaborate on projects that challenge me to grow and lear
 📫 **Connect with me**:
 - [LinkedIn](http://www.linkedin.com/in/jacob-irsan)
 - [Email](mailto:jacob.irsanus@gmail.com)
+
+📄 Get to know about my experiences via my resume [HERE](https://docs.google.com/document/d/1Gs3Q1DAcd_8sxyPOMD9q_eCYltOB17rk7jpXJuI4AQ0/edit#heading=h.5x0d5h95i329).
