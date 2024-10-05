@@ -11,8 +11,8 @@ I'm a **Business Intelligence Analyst** with a background in **Information Syste
 - Marketing Analytics
 
 ### 📊 **Recent Projects**:
-- **[Zomato Sales Performance Analysis](#)**: Analyzed restaurant sales performance on Zomato using key KPIs and regional trends. Developed strategies to boost sales in underperforming areas and tackle challenges posed by the COVID-19 pandemic.
-- **[Shopify Customer Reviews Analysis](#)**: Led the analysis of customer reviews, uncovering a direct correlation between developer engagement and customer satisfaction, which led to a 15% increase in app retention.
+- **[Zomato Sales Performance Analysis](Zomato)**: Analyzed restaurant sales performance on Zomato using key KPIs and regional trends. Developed strategies to boost sales in underperforming areas and tackle challenges posed by the COVID-19 pandemic.
+- **[Shopify Customer Reviews Analysis]()**: Led the analysis of customer reviews, uncovering a direct correlation between developer engagement and customer satisfaction, which led to a 15% increase in app retention.
 
 ### 💼 **Professional Experience**:
 - **Assistant Marketing Manager @ Sinar Kosambi Mandiri**: Improved revenue forecasting by 15%, increased brand awareness by 20%, and enhanced customer retention by 30% through data-driven marketing and CRM strategies.
